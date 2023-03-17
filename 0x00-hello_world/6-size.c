@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - 6-size.c
@@ -17,4 +16,3 @@ int main(void)
 
         return (0);
 }
-

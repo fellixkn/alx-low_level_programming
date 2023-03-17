@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - 5-printf.c
@@ -12,4 +11,3 @@ int main(void)
 
         return (0);
 }
-

@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 /**
  * main - 4-puts.c
@@ -12,4 +11,3 @@ int main(void)
 
         return (0);
 }
-
