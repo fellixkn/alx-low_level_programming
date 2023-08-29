@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
 			str_to_int = atoi(argv[count]);
 			sum += str_to_int;
 		}
-	       	else
+		else
 		{
 			printf("Error\n");
 			return (1);
